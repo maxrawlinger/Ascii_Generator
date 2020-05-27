@@ -1,7 +1,7 @@
 PImage source; 
 int area = 10;
 final int F = 255;
-String picName = "test2.jpg";
+String picName = "test.jpg";
 
 Boolean colorEnabled = false;
 Boolean colorInverted = false;
